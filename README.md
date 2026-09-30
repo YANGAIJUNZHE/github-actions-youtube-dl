@@ -4,7 +4,7 @@
 
 ## 原理
 
-使用 GitHub Actions 的服务器，从 YouTube 下载视频。将需要下载的视频添加到 playlist.txt 文件中，每次 push 的时候，github action 读取 playlist.txt 列表，并下载列表中的所有视频。
+使用 GitHub Actions 的服务器，从 YouTube 下载视频。将需要下载的视频添加到 playlist.txt 文件中，每次 push 的时候，github action 读取 playlist.txt 列表，并且下载列表中的所有视频。
 
 ## 使用
 
